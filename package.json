@@ -1,0 +1,14 @@
+{
+  "name": "unit_testing_and_ci",
+  "version": "1.0.0",
+  "description": "Unit testing and Continuous Integration 101",
+  "main": "sumifier.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.2.7"
+  }
+}
