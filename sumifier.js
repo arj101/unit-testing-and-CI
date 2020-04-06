@@ -1,6 +1,6 @@
 
 function sum(a,b){
-  return a + b;
+  return a + b + 2;
 }
 
 function randomizer(num){
