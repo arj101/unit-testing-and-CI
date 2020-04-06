@@ -19,7 +19,7 @@ test("Testing randomizer", () =>{
 test("Testing if 4 x 7 is 28", () => {
   const test_prod__result = functions.prod(4,7);
   testResults.prodResults = test_prod__result;
-  expect(test_prod_result).toBe(28);
+  expect(test_prod__result).toBe(28);
 })
 
 
